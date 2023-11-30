@@ -1,0 +1,14 @@
+{
+  "name": "aws-s3-api",
+  "version": "1.0.0",
+  "description": "Access S3 bucket to list/upload/download objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1368.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "functions": {
+    "api/list-files.js": {
+      "maxDuration": 10
+    },
+    "api/upload-file.js": {
+      "maxDuration": 10
+    },
+    "api/download-file.js": {
+      "maxDuration": 10
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/send_data"
+    }
+  ]
+}

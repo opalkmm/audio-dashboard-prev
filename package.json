@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.3.1",
+    "@stripe/stripe-js": "^2.1.7",
+    "react-stripe-js": "^1.1.5",
+    "socket.io": "^4.7.2",
+    "stripe": "^13.9.0"
+  }
+}
